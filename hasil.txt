@@ -1,0 +1,24 @@
+-------------------------------------
+Data Luas Bagunan
+-------------------------------------
+Panjang Bangunan	: 90
+Lebar Bangunan		: 90
+Luas Bangunan		: 8100
+Ketegori			: Kategori Besar
+-------------------------------------
+-------------------------------------
+Data Luas Bagunan
+-------------------------------------
+Panjang Bangunan	: 80
+Lebar Bangunan		: 80
+Luas Bangunan		: 6400
+Ketegori			: Kategori Besar
+-------------------------------------
+-------------------------------------
+Data Luas Bagunan
+-------------------------------------
+Panjang Bangunan	: 90
+Lebar Bangunan		: 90
+Luas Bangunan		: 8100
+Ketegori			: Kategori Besar
+-------------------------------------
